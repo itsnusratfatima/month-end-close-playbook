@@ -55,3 +55,27 @@ flowchart TD
 - End-to-end ownership
 
 
+Add this section:
+
+```markdown
+## 🏗️ System Architecture Overview
+
+The Month-End Close system consists of:
+
+- Frontend (Finance Dashboard)
+- API Gateway
+- Close Orchestration Service
+- Reconciliation Engine
+- Journal Entry Engine
+- PostgreSQL Databases
+- ERP + Bank Integrations
+- BI Reporting Layer
+
+### Key Design Principles:
+- Modular microservices
+- Idempotent reconciliation jobs
+- Audit logging at every step
+- Retry logic for API failures
+- Role-based access control
+
+
