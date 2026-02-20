@@ -1,0 +1,104 @@
+
+---
+
+# 📘 Portfolio Case Study Structure
+
+Paste this:
+
+```markdown
+# 🧾 Month-End Close Automation
+## Product Case Study
+
+---
+
+## 🏢 Context
+
+Finance teams were taking 8–12 days to close books.
+Manual reconciliation.
+High error rates.
+Poor visibility.
+No real-time reporting.
+
+---
+
+## 🎯 Problem Statement
+
+How might we reduce close time by 50% while improving accuracy and auditability?
+
+---
+
+## 🔍 User Research
+
+Interviewed:
+- 4 Controllers
+- 6 Finance Managers
+- 2 Accountants
+
+Key Pain Points:
+- Manual Excel tracking
+- No real-time status view
+- Late variance detection
+- Repetitive journal posting
+
+---
+
+## 📊 Metrics Baseline
+
+| Metric | Before |
+|--------|--------|
+| Close Duration | 10 days |
+| Manual Effort | 35 hrs |
+| Error Rate | 8% |
+| Reconciliation SLA | 4 days |
+
+---
+
+## 🧠 Solution Strategy
+
+1. Close Orchestration Dashboard
+2. Automated Reconciliation Engine
+3. Variance Alerts
+4. Journal Entry Auto-posting
+5. Audit Trail Layer
+
+---
+
+## 🏗️ System Design
+
+See:
+- System Architecture
+- Data Model
+- SQL Layer
+
+---
+
+## 🚀 Results
+
+| Metric | After |
+|--------|--------|
+| Close Duration | 4 days |
+| Manual Effort | -60% |
+| Error Rate | 1.5% |
+| Reconciliation SLA | Same Day |
+
+---
+
+## ⚠️ Edge Cases Covered
+
+- Duplicate bank feeds
+- ERP sync failure
+- Partial reconciliation
+- Late transaction postings
+- Currency mismatch
+- Retry logic failures
+- Backdated entries
+- Permission misconfigurations
+
+---
+
+## 📈 Future Roadmap
+
+- AI anomaly detection
+- Predictive close forecasting
+- Cross-entity consolidation
+- Auto accrual engine
