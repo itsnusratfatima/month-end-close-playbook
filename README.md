@@ -36,5 +36,22 @@ flowchart TD
 - Auto-match rate  
 - Exception rate  
 - Manual override %  
-- Accuracy %  
+- Accuracy %
+
+- ## 📂 Repository Structure
+
+- /diagrams → System & workflow diagrams
+- /docs → Decision frameworks & controls
+- PRD_month_end_close.md → Full product specification
+
+---
+
+## 🧠 What This Repository Demonstrates
+
+- Systems thinking
+- AI decision frameworks
+- Risk-aware product design
+- Finance domain expertise
+- End-to-end ownership
+
 
